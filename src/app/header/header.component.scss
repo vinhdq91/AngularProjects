@@ -1,0 +1,8 @@
+
+li.dropdown ul.dropdown-menu{
+    display: hidden;
+}
+
+li.dropdown.open ul.dropdown-menu{
+    display: block;
+}
